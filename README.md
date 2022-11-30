@@ -1,1 +1,0 @@
-# FoundationsOfRealTime3D Challenge
